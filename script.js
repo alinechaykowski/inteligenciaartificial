@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, muitos empregos podem ser substituidos pela IA e o desemprego aumentará.",
-                afirmaçao: "Sim",
+                afirmação: "Sim",
             },
             {
                 texto: "Não, a IA é uma forma de complementar o trabalho humano.",
-                afirmacao: "Não",
+                afirmação: "Não",
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, ela pode trazer avanços em áreas como a saúde e educação.",
-                afirmaçao: "Sim",
+                afirmação: "Sim",
             },
             {
                 texto: "Não, a IA pode aumentar o desemprego e a desigualdade social.",
-                afirmacao: "Não",
+                afirmação: "Não",
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, a IA pode reagir mais rápido e com precisão maior que a dos humanos em situações de emergência.",
-                afirmaçao: "Sim",
+                afirmação: "Sim",
             },
             {
                 texto: "Não, a decisão deve ser tomada por um ser humano, por conta de levar em consideração a ética.",
-                afirmacao: "Não",
+                afirmação: "Não",
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, com os avanços tecnológicos , a IA pode desenvolver formas de consciência e autoconsciência.",
-                afirmaçao: "Sim",
+                afirmação: "Sim",
             },
             {
                 texto: "Não, a consciência humana é única e jamais poderá ser replicada em máquinas.",
-                afirmacao: "Não",
+                afirmação: "Não",
             }
         ]
     },
